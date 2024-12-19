@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import localFont from "next/font/local";
+import localFont from "next/font/local"; // its not a error okay
 import "./globals.css";
 
 const geistSans = localFont({
